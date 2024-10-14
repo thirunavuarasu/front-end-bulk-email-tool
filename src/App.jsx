@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Login from './pages/Login';
-import Register from './pages/Register';
-import Dashboard from './pages/Dashboard';
+import Login from './pages/Login';       // Ensure this path is correct
+import Register from './pages/Register'; // Ensure this path is correct
+import Dashboard from './pages/Dashboard'; // Ensure this path is correct
 import Navbar from './components/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
